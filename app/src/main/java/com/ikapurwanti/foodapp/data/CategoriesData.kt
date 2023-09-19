@@ -1,6 +1,6 @@
 package com.ikapurwanti.foodappbinar.data
 
-import com.ikapurwanti.foodappbinar.R
+import com.ikapurwanti.foodapp.R
 import com.ikapurwanti.foodappbinar.model.Categories
 
 
