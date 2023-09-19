@@ -24,6 +24,7 @@
         <item name="colorErrorContainer">@color/app_color_error_container</item>
         <item name="colorOnErrorContainer">@color/app_color_on_error_container</item>
 
+        <item name="fontFamily">@font/font_family</item>
     </style>
 
     <style name="Theme.FoodApp" parent="Base.Theme.FoodApp" />
