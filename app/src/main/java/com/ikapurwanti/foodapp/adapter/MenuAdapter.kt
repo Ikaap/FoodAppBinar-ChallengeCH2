@@ -3,7 +3,7 @@ package com.ikapurwanti.foodappbinar.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.ikapurwanti.foodappbinar.databinding.ItemMenuBinding
+import com.ikapurwanti.foodapp.databinding.ItemMenuBinding
 import com.ikapurwanti.foodappbinar.model.Menu
 
 class MenuAdapter (private var menuList : ArrayList<Menu>) : RecyclerView.Adapter<MenuAdapter.ViewHolder>(){

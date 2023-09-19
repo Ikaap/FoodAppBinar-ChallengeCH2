@@ -3,7 +3,7 @@ package com.ikapurwanti.foodappbinar.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.ikapurwanti.foodappbinar.databinding.ItemCategoriesBinding
+import com.ikapurwanti.foodapp.databinding.ItemCategoriesBinding
 import com.ikapurwanti.foodappbinar.model.Categories
 
 class CategoriesAdapter(private val categoriesList : ArrayList<Categories>) : RecyclerView.Adapter<CategoriesAdapter.ViewHolder>(){
